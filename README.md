@@ -1,2 +1,9 @@
 # RCOS-Fall25
-example
+- Jared Lee
+
+![alt text][logo]
+[logo]: https://github.com/MEKNOWKNOOB/Locked-In/blob/main/assets/images/114.jpg "Meme"
+
+2027
+
+Unity COOP Game
